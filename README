@@ -1,0 +1,5 @@
+A l'heure actuel, le client officiel qui permet la modération des channels IRC sur le réseau skyrock est mIRC.
+
+Celui-ci inclus plusieurs script en PERL permettant la gestion des salons, et bien plus ! 
+
+Notre objectif étant un travail similaire en python !
